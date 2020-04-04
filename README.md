@@ -1,2 +1,8 @@
-# git-practice
-Git Course from Udemy
+# Starter Web Project
+
+## Introduction
+
+## Purpose
+
+
+## How to contribute
