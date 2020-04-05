@@ -9,3 +9,6 @@ I am doing deployment now of this task
 vghjhjknkm.,llkkjkljlkj
 ## How to contribute
 I am contributing now on this page for the all associates
+
+## Build Details
+ Adding build details in this section
