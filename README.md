@@ -10,4 +10,11 @@ vghjhjknkm.,llkkjkljlkj
 ## How to contribute
 I am contributing now on this page for the all associates
 
+<<<<<<< HEAD
 Search the world's information, including webpages, images, videos and more. Google has many special features to help you find exactly what you're looking
+=======
+## Build Details
+ Adding build details in this section
+ 
+ Google LLC is an American multinational technology company that specializes in Internet-related services and products, which include online advertising technologies, search engine, cloud computing, software, and hardwar
+>>>>>>> myfeature
