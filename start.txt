@@ -3,3 +3,4 @@ Test Git Quick Start demo
  
  I am modifiying this file for the practice of git stash function
  I am adding this line in new branch for merging with master
+  I am adding this line in new branch for merging with master using mergetool command
