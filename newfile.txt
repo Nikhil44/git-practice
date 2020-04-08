@@ -5,3 +5,7 @@ Raw denim typewriter meggings, bicycle rights edison bulb meditation letterpress
  
  
  Kanu ,Tanu , Manu , Sonu, Nanu
+ 
+ I am adding one more line in this page for rebase practice
+ 
+ This file also modified for multiple stashes 
